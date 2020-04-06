@@ -9,17 +9,21 @@
 >
 > ------
 >
-> > # [Step 1 Kamal]()
+> > # Bulk magnetization vector
 > >
+> >  ​		**There is three function used to rotate the bulk magnetization vector and plot it's trajectory **
+> >			1. **excitation() : used to rotate the bulk magnetization and it's trajectory during excitation process ** 
 > > 
-> >
+> >			2. **relaxation() : used to rotate the bulk magnetization and it's trajectory during relaxation process **
 > > 
-> >
+> >			3. **update_line(): used to updae the data we plot **
 > > 
-> >
+> >		   **in addition to  get_param() used to get parameters by console**
+> >		
+> > 	   **This video to simulate Bulk magnetization vector rotation**			
+> >			![simulation](/assets/simulation.gif)
 > > 
-> >
-> > ------
+> ------
 > >
 > > # [Step 2 Kamal]()
 > >
